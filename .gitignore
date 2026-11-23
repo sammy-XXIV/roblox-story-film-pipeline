@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.mp4
+*.wav
+*.mp3
+*.mkv
+sections_60fps/
+retimed_shots/
+tmp_*/
